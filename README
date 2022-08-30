@@ -1,0 +1,10 @@
+This repository contains the reproducible analysis of PCA for the article: 
+"Statistical and Spatial Analysis of Census Data for the Study of Family and Industrial Farming in Colombia"
+https://link.springer.com/article/10.1007/s12061-019-09324-4
+
+
+It contains: 
+
+- rda object with data required
+- rmarkdown file
+- expected HTML file
